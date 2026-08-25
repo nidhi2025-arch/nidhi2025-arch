@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nidhi Dongre 👋
 
-<!--
-**nidhi2025-arch/nidhi2025-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer specializing in PySpark, SQL, Apache Spark, Azure Databricks, and scalable ETL pipeline development.
 
-Here are some ideas to get you started:
+## Skills
+- Python & SQL
+- PySpark & Apache Spark
+- Azure Databricks & Azure Data Factory
+- Delta Lake & Data Warehousing
+- ETL/ELT Pipelines
+- Cloud Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🚀 E-Commerce Data Engineering Pipeline  
+🚀 PySpark ETL Processing Workflows  
+🚀 Data Analytics & Machine Learning Projects
